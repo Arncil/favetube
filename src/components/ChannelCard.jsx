@@ -8,7 +8,7 @@ const ChannelCard = ({ channelDetail, marginTop }) => {
             boxShadow: 'none', borderRadius: 20, display: 'flex',
             justifyContent: 'center', alignItems: 'center', width: { xs: 356, md: 320 }, height: 326, margin: 'auto', marginTop
         }}>
-            <Link to={`/channel/${channelDetail?.id?.channelId}`}>
+            <Link to={`/favetube/channel/${channelDetail?.id?.channelId}`}>
                 <CardContent sx={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', textAlign: 'center', color: '#fff' }}>
                     <CardMedia
                         image={channelDetail?.snippet?.thumbnails?.high?.url || demoProfilePicture}

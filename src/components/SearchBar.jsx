@@ -10,7 +10,7 @@ const SearchBar = () => {
     const handleSubmit = (e) => {
         e.preventDefault()
         if (searchTerm) {
-            navigate(`/search/${searchTerm}`)
+            navigate(`/favetube/search/${searchTerm}`)
             setSearchTerm('')
         }
     }
