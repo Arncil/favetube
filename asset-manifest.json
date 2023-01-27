@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/favetube/static/css/main.7064deb2.css",
+    "main.js": "/favetube/static/js/main.61673ae4.js",
+    "static/media/logo.png": "/favetube/static/media/logo.1a057cb791fc233cb6c4.png",
+    "index.html": "/favetube/index.html",
+    "main.7064deb2.css.map": "/favetube/static/css/main.7064deb2.css.map",
+    "main.61673ae4.js.map": "/favetube/static/js/main.61673ae4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.61673ae4.js"
+  ]
+}
