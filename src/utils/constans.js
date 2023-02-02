@@ -10,6 +10,7 @@ import FoodBankOutlinedIcon from '@mui/icons-material/FoodBankOutlined';
 import AutoAwesomeOutlinedIcon from '@mui/icons-material/AutoAwesomeOutlined';
 import BreakfastDiningOutlinedIcon from '@mui/icons-material/BreakfastDiningOutlined';
 import HeadphonesOutlinedIcon from '@mui/icons-material/HeadphonesOutlined';
+import PsychologyAltOutlinedIcon from '@mui/icons-material/PsychologyAltOutlined';
 
 import logoImage from '../resources/images/logo.png'
 export const logo = logoImage
@@ -21,6 +22,7 @@ export const categories = [
   { name: 'Web Dev Simplified', icon: <JavascriptOutlinedIcon />, },
   { name: 'Disguised Toast', icon: <BreakfastDiningOutlinedIcon />, },
   { name: 'Kurzgesagt - In a Nutshell', icon: <SchoolIcon />, },
+  { name: 'Answer in Progress', icon: <PsychologyAltOutlinedIcon />, },
   { name: 'Greanolf', icon: <TheaterComedyIcon />, },
   { name: 'StarTalk', icon: <AutoAwesomeOutlinedIcon />, },
   { name: 'The Film Theorists', icon: <OndemandVideoIcon />, },
